@@ -1,0 +1,23 @@
+{
+  "name": "@autotrof/json-to-url",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "this is package to translate complex json object into url query params",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "query",
+    "params",
+    "url",
+    "complex"
+  ],
+  "author": "ChatGPT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/autotrof/json-to-url"
+  }
+}

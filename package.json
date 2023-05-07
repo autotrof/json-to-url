@@ -1,6 +1,6 @@
 {
   "name": "@autotrof/json-to-url",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "description": "this is package to translate complex json object into url query params",
   "main": "index.min.js",
